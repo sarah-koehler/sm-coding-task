@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "HIIT workout",
+    "duration": 900,
+    "phases": [
+      {
+        "id": "1",
+        "name": "Opening lobby",
+        "offset": 0,
+        "duration": 10,
+        "editable": false
+      },
+      {
+        "id": "2",
+        "name": "Welcome",
+        "offset": 10,
+        "duration": 20,
+        "editable": false
+      },
+      {
+        "id": "3",
+        "name": "Goodbye",
+        "offset": 870,
+        "duration": 20,
+        "editable": false
+      },
+      {
+        "id": "4",
+        "name": "Closing lobby",
+        "offset": 890,
+        "duration": 10,
+        "editable": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Strong stretch",
+    "duration": 900,
+    "phases": [
+      {
+        "id": "5",
+        "name": "Opening lobby",
+        "offset": 0,
+        "duration": 10,
+        "editable": false
+      },
+      {
+        "id": "6",
+        "name": "Welcome",
+        "offset": 10,
+        "duration": 20,
+        "editable": false
+      },
+      {
+        "id": "7",
+        "name": "Goodbye",
+        "offset": 870,
+        "duration": 20,
+        "editable": false
+      },
+      {
+        "id": "8",
+        "name": "Closing lobby",
+        "offset": 890,
+        "duration": 10,
+        "editable": false
+      }
+    ]
+  }
+]
